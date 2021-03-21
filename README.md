@@ -3,7 +3,8 @@
 100 Days Of Swift with *https://www.hackingwithswift.com/100*
 
 
-### Days 1-12: Introduction to Swift
+
+## Days 1-12: Introduction to Swift
 
 **1 Day** - variables, simple data types, and string interpolation
 
@@ -31,7 +32,8 @@
 
 
 
-### Days 13-15: Consolidation I
+
+## Days 13-15: Consolidation I
 
 **13 Day** - Swift review, day one
 
@@ -41,7 +43,8 @@
 
 
 
-### Days 16-22: Starting iOS
+
+## Days 16-22: Starting iOS
 
 **16 Day** - Project 1, part one
 
@@ -59,13 +62,15 @@
 
 
 
-### Day 23: Consolidation II
+
+## Day 23: Consolidation II
 
 **23 Day** - Milestone: Projects 1-3
 
 
 
-### Days 24-31: Web views, user input, and Auto Layout
+
+## Days 24-31: Web views, user input, and Auto Layout
 
 **24 Day** - Project 4, part one
 
@@ -85,12 +90,15 @@
 
 
 
-### Day 32: Consolidation III
+
+## Day 32: Consolidation III
 
 **32 Day** - Milestone: Projects 4-6
 
 
-### Day 33-40: Codable, buttons, and GCD
+
+
+## Day 33-40: Codable, buttons, and GCD
 
 **33 Day** - Project 7, part one
 
@@ -110,12 +118,15 @@
 
 
 
-### Day 41: Consolidation IV
+
+## Day 41: Consolidation IV
 
 **41 Day** - Milestone: Projects 7-9
 
 
-### Days 42-49: A whole new world
+
+
+## Days 42-49: A whole new world
 
 **42 Day** - Project 10, part one
 
@@ -134,14 +145,18 @@
 **49 Day** - Project 12, part three
 
 
-### Days 50-51: Consolidation V
+
+
+## Days 50-51: Consolidation V
 
 **50 Day** - Milestone: Projects 10-12
 
 **51 Day** - Expanding your horizons
 
 
-### Days 52-58: Images and animation
+
+
+## Days 52-58: Images and animation
 
 **52 Day** - Project 13, part one
 
@@ -158,12 +173,16 @@
 **58 Day** - Project 15, part two
 
 
-### Day 59: Consolidation VI
+
+
+## Day 59: Consolidation VI
 
 **59 Day** - Milestone: Projects 13-15
 
 
-### Days 60-65: Maps and bugs
+
+
+## Days 60-65: Maps and bugs
 
 **60 Day** - Project 16, part one
 
@@ -176,6 +195,9 @@
 **64 Day** - Project 18, part one
 
 **65 Day** - Project 18, part two
+
+
+
 
 
 
