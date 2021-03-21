@@ -2,30 +2,32 @@
 
 100 Days Of Swift with *https://www.hackingwithswift.com/100*
 
+
 ### Days 1-12: Introduction to Swift
-1 Day - variables, simple data types, and string interpolation
 
-2 Day - arrays, dictionaries, sets, and enums
+**1 Day** - variables, simple data types, and string interpolation
 
-3 Day - operators and conditions
+**2 Day** - arrays, dictionaries, sets, and enums
 
-4 Day - loops, loops, and more loops
+**3 Day** - operators and conditions
 
-5 Day - functions, parameters, and errors
+**4 Day** - loops, loops, and more loops
 
-6 Day - closures part one
+**5 Day** - functions, parameters, and errors
 
-7 Day - closures part two
+**6 Day** - closures part one
 
-8 Day - structs, properties, and methods
+**7 Day** - closures part two
 
-9 Day - access control, static properties, and laziness
+**8 Day** - structs, properties, and methods
 
-10 Day - classes and inheritance
+**9 Day** - access control, static properties, and laziness
 
-11 Day - protocols, extensions, and protocol extensions
+**10 Day** - classes and inheritance
 
-12 Day - optionals, unwrapping, and typecasting
+**11 Day** - protocols, extensions, and protocol extensions
+
+**12 Day** - optionals, unwrapping, and typecasting
 
 
 
