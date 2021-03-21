@@ -199,6 +199,139 @@
 
 
 
+## Day 66: Consolidation VII
+
+**66 Day** - Milestone: Projects 16-18
+
+
+
+
+
+## Days 67-73: Leveling up
+
+**67 Day** - Project 20, part one
+
+**68 Day** - Project 20, part two
+
+**69 Day** - Project 20, part three
+
+**70 Day** - Project 21, part one
+
+**71 Day** - Project 21, part two
+
+**72 Day** - Project 22, part one
+
+**73 Day** - Project 22, part two
+
+
+
+
+
+## Day 74: Consolidation VIII
+
+**74 Day** - Milestone: Projects 19-21
+
+
+
+
+
+## Days 75-81: Beacons and bombs
+
+**75 Day** - Project 22, part one
+
+**76 Day** - Project 22, part two
+
+**77 Day** - Project 23, part one
+
+**78 Day** - Project 23, part two
+
+**79 Day** - Project 23, part three
+
+**80 Day** - Project 24, part one
+
+**81 Day** - Project 24, part two
+
+
+
+
+
+## Day 82: Consolidation IX
+
+**82 Day** - Milestone: Projects 22-24
+
+
+
+
+## Days 83-89: Multipeer and motion
+
+**83 Day** - Project 25, part one
+
+**84 Day** - Project 25, part two
+
+**85 Day** - Project 26, part one
+
+**86 Day** - Project 26, part two
+
+**87 Day** - Project 26, part three
+
+**88 Day** - Project 27, part one
+
+**89 Day** - Project 27, part two
+
+
+
+
+
+## Days 90-91: Consolidation X
+
+**90 Day** - Milestone: Projects 25-27
+
+**91 Day** - Core Graphics redux
+
+
+
+
+
+## Days 92-98: The Final Countdown
+
+**92 Day** - Project 28, part one
+
+**93 Day** - Project 28, part two
+
+**94 Day** - Project 29, part one
+
+**95 Day** - Project 29, part two
+
+**96 Day** - Project 29, part three
+
+**97 Day** - Project 30, part one
+
+**98 Day** - Project 30, part two
+
+
+
+
+## Day 99: Consolidation XI
+
+**99 Day** - Milestone: Projects 28-30
+
+
+
+
+## Wrap up
+
+**100 Day** - Final exam
+
+**Epilogue** - What now?
+
+
+
+
+
+
+
+
+
 
 
 
