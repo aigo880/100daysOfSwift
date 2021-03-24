@@ -1,3 +1,30 @@
 import UIKit
 
-var str = "Hello, playground"
+
+// Creating basic closures
+//
+//let driving = {
+//    print("I'm driving in my car")
+//}
+//driving()
+
+
+// Accepting parameters in a closure
+//
+//let driving2 = {(place: String) in
+//        print("I'm going to \(place) in my car")
+//}
+//
+//driving2("Mayami")
+
+
+// Returning values from a closure
+//
+
+
+
+
+
+
+
+
