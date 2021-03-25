@@ -20,7 +20,16 @@ import UIKit
 
 // Returning values from a closure
 //
+//let drivingWithReturn = { ( place: String) -> String in
+//    return "I'm going to \(place) in my car"
+//}
+//
+//let mess = drivingWithReturn("New York")
+//print(mess)
 
+
+
+// Closures as parameters
 
 
 
