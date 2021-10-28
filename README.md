@@ -3,7 +3,7 @@
 https://www.hackingwithswift.com/100/
 -----
 
-## Day 1
+## Day 1 😋
 1. Variables
 2. Strings and integers
 3. Multi-line strings
